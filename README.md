@@ -3,11 +3,13 @@
 <p>
 Lo primero es crear el repositorio desde la página web.
 </p>
+
 [![1.png](https://i.postimg.cc/yNXV2t7w/1.png)](https://postimg.cc/PLJsw6p4)
 
 <p>
 Teniendo ya el repositorio creado, sigue crear una carpeta en nuestro equipo y abrir la consola git bash en ella.
 </p>
+
 [![2.png](https://i.postimg.cc/4yns73pg/2.png)](https://postimg.cc/zHm948dt)
 
 <p>
@@ -39,4 +41,5 @@ Al abrir la consola se procede a colocar los comandos:
 <p>
 Ya después de esto para añadir a un colaborador, se tiene que ir a la página de github en los ajustes del repositorio e ir a la pestaña de "Collaborators" ahí se le manda la invitación al usuario que se desea añadir
 </p>
+
 [![9.png](https://i.postimg.cc/zGT5R6HV/9.png)](https://postimg.cc/XrNtR28b)
