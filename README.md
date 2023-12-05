@@ -1,3 +1,8 @@
+Estudiante: Engelbert Rodriguez 
+C.I: 27.163.859
+
+
+
 ### Pasos para crear un repositorio en git
 
 <p>
