@@ -48,3 +48,7 @@ Ya después de esto para añadir a un colaborador, se tiene que ir a la página 
 </p>
 
 [![9.png](https://i.postimg.cc/zGT5R6HV/9.png)](https://postimg.cc/XrNtR28b)
+
+<p>
+el link de la pagina es: https://inger21.github.io/Proweb_/
+</p>
